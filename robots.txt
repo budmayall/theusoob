@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waimooheib.opensourcedesign.net/sitemap.xml
